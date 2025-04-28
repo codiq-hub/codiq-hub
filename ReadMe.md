@@ -1,5 +1,6 @@
 # 💫 About Me:
-<h1>here i'am "SOURABH "</h1>
+<h1>here i'am "SOURABH MISHRA "</h1>
+
 🔭 I’m currently working on:<br>Diving deep into web development with projects like a Tic-Tac-Toe game, an Amazon clone, a QR code generator, and a sleek contact form — each one a stepping stone to becoming a full-stack legend!<br><br>👯 I’m looking to collaborate on:<br>Innovative web development projects, mind-bending coding challenges, building engaging educational content, and exploring cutting-edge tech ideas that blend creativity with functionality.<br><br>🤝 I’m looking for help with:<br>Mastering JavaScript and Python like a pro, crafting dynamic full-stack applications, and taking my coding journey to the next level by unlocking advanced development skills.<br><br>🌱 I’m currently learning:<br>JavaScript, C++, and Python — powering up my coding toolkit and leveling up to full-stack development greatness. The journey never stops!<br><br>💬 Ask me about:<br>How I balance school with my coding passion, tips for staying motivated in your tech journey, or advice on creating fun and impactful coding tutorials for social media.<br><br>⚡ Fun fact:<br>A commerce student by day, a coding ninja by night. When I’m not solving business equations, I’m building tech masterpieces!
 
 
@@ -9,14 +10,14 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ezmotal&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ezmotal&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezmotal&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=codiq-hub&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codiq-hub&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codiq-hub&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ezmotal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=codiq-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
